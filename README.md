@@ -1,35 +1,37 @@
-![image](https://github.com/user-attachments/assets/3306703e-1ef6-41eb-96ad-73896fbcff8d)# python_env_doc
+# python环境安装
 
 1、访问python官网 https://www.python.org/ 选择页签Downloads，然后点击下面DownloadPython按钮
-https://uploader.shimo.im/f/3Tf9Mri1WBGwAdWP.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3Mzc4OTk5MTksImZpbGVHVUlEIjoiOTAzMEpQWk5KTEhvTjFrdyIsImlhdCI6MTczNzg5OTYxOSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjoxMjUyMzM0OH0.zhbhGJliwzb3-Z1zAJ2bQPv0lueKTAnI4OWtA1V_kig![image](https://github.com/user-attachments/assets/7582cebd-71af-4786-a9ea-1c052df48137)
+![image](https://github.com/user-attachments/assets/7582cebd-71af-4786-a9ea-1c052df48137)
+
+
 
 2、下载完后双击exe，点击Install Now（推荐），也可自定义安装路径
-https://uploader.shimo.im/f/d2tbLW6Z70cqbaM8.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3Mzc4OTk5OTksImZpbGVHVUlEIjoiOTAzMEpQWk5KTEhvTjFrdyIsImlhdCI6MTczNzg5OTY5OSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjoxMjUyMzM0OH0.OfxA9neIMa3fC_Fw_FmLCCyB2nY2lSEreJrFVAEAcb8
 ![image](https://github.com/user-attachments/assets/1474273a-208b-478c-a627-d11546a5788d)
 
-https://uploader.shimo.im/f/lOZPY1Jvc36NcCUq.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3Mzc4OTk5OTksImZpbGVHVUlEIjoiOTAzMEpQWk5KTEhvTjFrdyIsImlhdCI6MTczNzg5OTY5OSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjoxMjUyMzM0OH0.OfxA9neIMa3fC_Fw_FmLCCyB2nY2lSEreJrFVAEAcb8![image](https://github.com/user-attachments/assets/575c0730-b449-4413-8d30-de7b8d6a1dfd)
+![image](https://github.com/user-attachments/assets/575c0730-b449-4413-8d30-de7b8d6a1dfd)
 
 
-https://uploader.shimo.im/f/7DuBpXGqdMM7xYzQ.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3Mzc4OTk5OTksImZpbGVHVUlEIjoiOTAzMEpQWk5KTEhvTjFrdyIsImlhdCI6MTczNzg5OTY5OSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjoxMjUyMzM0OH0.OfxA9neIMa3fC_Fw_FmLCCyB2nY2lSEreJrFVAEAcb8
 ![image](https://github.com/user-attachments/assets/af106b42-9330-4172-a0e2-98b8c4bfc26b)
 
-https://uploader.shimo.im/f/AVy7BGVElfaXZy1T.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3Mzc4OTk5OTksImZpbGVHVUlEIjoiOTAzMEpQWk5KTEhvTjFrdyIsImlhdCI6MTczNzg5OTY5OSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjoxMjUyMzM0OH0.OfxA9neIMa3fC_Fw_FmLCCyB2nY2lSEreJrFVAEAcb8![image](https://github.com/user-attachments/assets/a5ecb6ce-a663-4c73-928f-cde132f95b3c)
+![image](https://github.com/user-attachments/assets/a5ecb6ce-a663-4c73-928f-cde132f95b3c)
 
-https://uploader.shimo.im/f/RyAKrhZ5tOGlsTrO.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3Mzc4OTk5OTksImZpbGVHVUlEIjoiOTAzMEpQWk5KTEhvTjFrdyIsImlhdCI6MTczNzg5OTY5OSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjoxMjUyMzM0OH0.OfxA9neIMa3fC_Fw_FmLCCyB2nY2lSEreJrFVAEAcb8![image](https://github.com/user-attachments/assets/c5891952-342d-496e-9d47-d5c447edecaf)
+![image](https://github.com/user-attachments/assets/c5891952-342d-496e-9d47-d5c447edecaf)
 
-https://uploader.shimo.im/f/uN9xCDIR9yKxSePp.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3Mzc5MDAwNTksImZpbGVHVUlEIjoiOTAzMEpQWk5KTEhvTjFrdyIsImlhdCI6MTczNzg5OTc1OSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjoxMjUyMzM0OH0.emEmUKXx9RFnYcyq3xaWVgHCbZ2d99AbiALCLH5uVOw![image](https://github.com/user-attachments/assets/25b9a45b-c5ae-4561-9902-bb5b83630626)
+![image](https://github.com/user-attachments/assets/25b9a45b-c5ae-4561-9902-bb5b83630626)
 
 
 3、安装完成后，进入cmd路径，输入python --version若出现结果，则说明安装成功
-https://uploader.shimo.im/f/iKHTBMU50EMsQFud.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3Mzc5MDAwNTksImZpbGVHVUlEIjoiOTAzMEpQWk5KTEhvTjFrdyIsImlhdCI6MTczNzg5OTc1OSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjoxMjUyMzM0OH0.emEmUKXx9RFnYcyq3xaWVgHCbZ2d99AbiALCLH5uVOw![image](https://github.com/user-attachments/assets/ec307268-3cf1-4277-b34e-bb34b7fecd05)
+![image](https://github.com/user-attachments/assets/ec307268-3cf1-4277-b34e-bb34b7fecd05)
 
 
 4、安装python依赖C++（有的项目需要C++底层依赖，若普通项目可忽略）
 访问：https://visualstudio.microsoft.com/visual-cpp-build-tools
-https://uploader.shimo.im/f/Lerm0aoT8oeeZxbF.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3Mzc5MDAwNzIsImZpbGVHVUlEIjoiOTAzMEpQWk5KTEhvTjFrdyIsImlhdCI6MTczNzg5OTc3MiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjoxMjUyMzM0OH0.IZa98LE0B2kw9jlXhS9L-LwAKXtNfp4GEglPD4gvw2s![image](https://github.com/user-attachments/assets/9481fa49-6d22-44a0-814a-f3528f7c702f)
+![image](https://github.com/user-attachments/assets/9481fa49-6d22-44a0-814a-f3528f7c702f)
 
 
 勾选C+桌面开发
-https://uploader.shimo.im/f/mioUk1c8N7dApACk.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3Mzc5MDAwODcsImZpbGVHVUlEIjoiOTAzMEpQWk5KTEhvTjFrdyIsImlhdCI6MTczNzg5OTc4NywiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjoxMjUyMzM0OH0.1N3gh-0iJk4TU_oSIHUBsAegUurCBR3PwHECO70JPjw![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6a5ca7b7-ede8-4085-ab09-c7c11c637011) 
+
+
 
 可自定义路径，安装好就行
